@@ -1,0 +1,3 @@
+/Users/alexandermatveev/Desktop/cn2taks2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alexandermatveev/Desktop/cn2taks2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexandermatveev/Desktop/cn2taks2/cmake-build-debug/CMakeFiles/cn2taks2.dir
